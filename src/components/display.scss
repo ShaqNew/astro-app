@@ -1,0 +1,7 @@
+.display {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    flex: 1 1 auto; // fill remaining page height
+    overflow: hidden;
+}
